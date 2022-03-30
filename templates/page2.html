@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Video 2 - Fighting</h1>
+<video controls="" autoplay="" name="media">
+    <source src="{{ url_for('static', filename="video_3.mp4") }}" type="video/mp4">
+</video><p>Go back to the <a href="/">home page</a>.</p>
+<button type = "button">Call an ambulance</button>
+<button type = "button">Call the police</button>
+<button type = "button">Stop the Vehicle</button>
+{% endblock %}
