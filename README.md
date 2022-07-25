@@ -5,9 +5,9 @@ his is a wrapper for Stack Overflow API
 
 Instructions:
 
-git clone https://github.com/athaser/FLASK-API-VIDEO-CSV-real-time-values-streaming
-cd to the folder
-python3 app3.py
+1. git clone https://github.com/athaser/FLASK-API-VIDEO-CSV-real-time-values-streaming
+2. cd to the folder
+3. python3 app3.py
 
 Objective:
 
