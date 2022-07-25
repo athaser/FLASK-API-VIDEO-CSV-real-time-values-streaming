@@ -1,5 +1,4 @@
 from glob import glob
-import re
 import sys
 from flask import Flask, render_template
 from turbo_flask import Turbo
