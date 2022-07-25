@@ -19,5 +19,5 @@ The data included in the CSVs were generated with ML algorithms that identify an
 
 Requirements:
 
-Flask                         2.0.3
-Turbo-Flask                   0.8.0
+1. Flask                         2.0.3
+2. Turbo-Flask                   0.8.0
