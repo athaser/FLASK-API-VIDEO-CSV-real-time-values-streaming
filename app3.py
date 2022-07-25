@@ -26,7 +26,6 @@ counter2=0
 
 @app.context_processor
 def inject_load():
-    #load = [int(random.random() * 100) / 100 for _ in range(3)]
     with open('predictions_normal.csv', newline='') as csvfile:
         global counter
         reader=csv.reader(csvfile)
