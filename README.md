@@ -1,8 +1,5 @@
 # FLASK-API-VIDEO-CSV-real-time-values-streaming
 
-
-his is a wrapper for Stack Overflow API
-
 Instructions:
 
 1. git clone https://github.com/athaser/FLASK-API-VIDEO-CSV-real-time-values-streaming
